@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1024m
+slideshow
+slideshow.jar,core.jar,video.jar
