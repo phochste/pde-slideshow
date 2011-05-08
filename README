@@ -1,0 +1,13 @@
+Requires a slideshow exported as images. When excuting the
+slideshow command it will ask for a folder containing the
+images.
+
+Keys:
+
+ n = next
+ p = previous
+ s = start
+ e = end
+ v = switch video on or off
+
+
